@@ -1,2 +1,2 @@
 # TPAE
- Jogo desenvolvido para a disciplina de Técnicas de programação aplicadas a engenharia
+ Jogo desenvolvido para a disciplina de Técnicas de Programação Aplicadas a Engenharia
